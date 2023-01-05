@@ -1,4 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Austin Ochoa ====================================================================================================================================  Backend Software Developer --------------------------  I have been learning how to code for the past couple years after deciding to change careers from being a math teacher to a software developer.  * 🌍  I'm based in Seattle, WA * ✉️  You can contact me at [Austin.Ochoa.13@gmail.com](mailto:Austin.Ochoa.13@gmail.com) * 🧠  I'm learning Javascript * 🤝  I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Austin 
+Ochoa 
+==============================================================================================================================
+
+
+Backend Software Developer 
+--------------------------  
+I have been learning how to code for the past couple years after deciding to change careers from being a math teacher to a software developer.  
+* 🌍  I'm based in Seattle, WA 
+* ✉️  You can contact me at [Austin.Ochoa.13@gmail.com](mailto:Austin.Ochoa.13@gmail.com) 
+* 🧠  I'm learning Javascript 
+* 🤝  I'm open to collaborating on Projects
 
 ### Skills  
 
